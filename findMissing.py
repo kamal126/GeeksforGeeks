@@ -73,3 +73,4 @@ for _ in range(0,t):
         print(each,end=' ')
     print()
 # } Driver Code Ends
+""" total time taken : 0.29 """
